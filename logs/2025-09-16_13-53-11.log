@@ -1,0 +1,22 @@
+[2025-09-16 13:53:16,202] 96 werkzeug - WARNING -  * Debugger is active!
+[2025-09-16 13:53:16,226] 96 werkzeug - INFO -  * Debugger PIN: 129-464-912
+[2025-09-16 13:53:16,289] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:16] "GET / HTTP/1.1" 200 -
+[2025-09-16 13:53:20,684] 57 root - INFO - Entered initiated method of data_intigration class
+[2025-09-16 13:53:20,685] 42 root - INFO - Exporting data from mongodb 
+[2025-09-16 13:53:25,425] 47 root - INFO - saving exported data into feature store file path
+[2025-09-16 13:53:25,736] 60 root - INFO - got data from mongodb 
+[2025-09-16 13:53:25,738] 61 root - INFO - stored csv file in the following path artifacts\wafer_data.csv
+[2025-09-16 13:53:26,440] 39 root - INFO - Entered the save_object method of MainUtils class
+[2025-09-16 13:53:26,444] 45 root - INFO - Exited the save_object method of MainUtils class
+[2025-09-16 13:53:26,512] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:26] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-09-16 13:53:26,602] 57 root - INFO - Entered initiated method of data_intigration class
+[2025-09-16 13:53:26,604] 42 root - INFO - Exporting data from mongodb 
+[2025-09-16 13:53:28,908] 47 root - INFO - saving exported data into feature store file path
+[2025-09-16 13:53:29,170] 60 root - INFO - got data from mongodb 
+[2025-09-16 13:53:29,170] 61 root - INFO - stored csv file in the following path artifacts\wafer_data.csv
+[2025-09-16 13:53:29,511] 39 root - INFO - Entered the save_object method of MainUtils class
+[2025-09-16 13:53:29,514] 45 root - INFO - Exited the save_object method of MainUtils class
+[2025-09-16 13:53:29,534] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:29] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-09-16 13:53:29,831] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:29] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-09-16 13:53:29,835] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:29] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-09-16 13:53:29,961] 96 werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:53:29] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
